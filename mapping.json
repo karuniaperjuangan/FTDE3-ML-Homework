@@ -1,0 +1,1 @@
+{"Gender": {"Male": 0, "Female": 1}, "Vehicle_Age": {"> 2 Years": 0, "1-2 Year": 1, "< 1 Year": 2}, "Vehicle_Damage": {"Yes": 0, "No": 1}}
